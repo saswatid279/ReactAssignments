@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#pass1 {
+  display: block;
+  margin: auto;
+  text-align: center;
+  font-size: 1rem;
+  padding: 3px 3px;
+}
+#pass2 {
+  display: block;
+  margin: 1rem auto;
+  text-align: center;
+  font-size: 1rem;
+  padding: 3px 3px;
+}
+#btndisable {
+  background-color: cornflowerblue;
+  outline: none;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 5px;
+}

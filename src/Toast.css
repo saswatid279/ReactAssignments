@@ -1,0 +1,54 @@
+.notify-container {
+  box-sizing: border-box;
+  font-size: 14px;
+  padding: 0.5rem 1rem;
+  color: white;
+  box-shadow: 5px 5px gray;
+  margin-bottom: 5px;
+}
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  margin: 0px;
+}
+.message {
+  font-size: 14px;
+  margin-top: 2px;
+  margin-bottom: 0px;
+  text-align: left;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.btn {
+  float: right;
+  margin: 5px 5px;
+}
+.Success {
+  box-sizing: border-box;
+  font-size: 14px;
+  padding: 0.5rem 1rem;
+  color: white;
+  box-shadow: 5px 5px gray;
+  margin-bottom: 8px;
+  background-color: green;
+}
+.Error {
+  box-sizing: border-box;
+  font-size: 14px;
+  padding: 0.5rem 1rem;
+  color: white;
+  box-shadow: 5px 5px gray;
+  margin-bottom: 8px;
+  background-color: red;
+}
+.Warning {
+  box-sizing: border-box;
+  font-size: 14px;
+  padding: 0.5rem 1rem;
+  color: white;
+  box-shadow: 5px 5px gray;
+  margin-bottom: 8px;
+  background-color: orange;
+}
